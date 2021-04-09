@@ -78,8 +78,8 @@ ga_domain: haodong1228
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "黄玄，前端娱乐圈 NPC，编程语言/编译器初心者 <br> An UI/Frontend dev & designer accidentally growing into a compiler/PL hacker."
-sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "章浩棟，東京大学，農学生命科学研究科，農業国際専攻，国際情報農学研究室，修士2年． <br>Zhang Haodong, Graduate School of Agriculture and Life Sciences, Department of Global Agriculture Sciences, Laboratory of International Agro-Informatics, Master Student"
+sidebar-avatar: /img/haodong_intro.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
