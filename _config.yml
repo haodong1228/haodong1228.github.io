@@ -103,10 +103,7 @@ page-mathjax: false
 # Friends
 friends: [
     {
-    #     title: "Su",
-    #     href: "http://su.gallery/"
-    # },{
-        title: "baidu",
+        title: "Baidu",
         href: "www.baidu.com"
     },{
         title: "Mizo_lab",
