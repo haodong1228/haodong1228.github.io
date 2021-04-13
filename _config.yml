@@ -3,7 +3,7 @@ title: Haodong Blog
 SEOTitle: Haodong Zhang
 header-img: img/home-bg.jpg
 email: haodongzhang1228@gmail.com
-description: "关于程序与设计、黑客与画家 | 章浩棟，Web & Mobile Lover，Software Engineer，UX Designer | 这里是＠haodong 章浩棟的个人博客，与你一起发现更大的世界。"
+description: "Hello World! | 章浩棟，Peace Lover, engineer, dream to be a farmer | This is ＠haodong 章浩棟's personal blog。"
 keyword: "章浩棟, haodong, Zhang, Article, code, 浩棟的博客, Haodong Blog, Blog, Mysite, Internet, Web, JavaScript, IoT, AI"
 url: "https://haodong1228.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -14,7 +14,7 @@ future: true
 # SNS settings
 RSS: false
 weibo_username:     2839489330
-zhihu_username:     huxpro
+#zhihu_username:     huxpro
 github_username:    haodong1228
 twitter_username:   ZhangHaodong666
 #facebook_username:  huxpro
@@ -111,5 +111,11 @@ friends: [
     },{
         title: "Mizo_lab",
         href: "http://www.iai.ga.a.u-tokyo.ac.jp/mizo/mizolab.html"
+    },{
+        title: "U-Tokyo",
+        href: "https://www.u-tokyo.ac.jp/ja/index.html"
+    },{
+        title: "U-Tokyo-Agricultural",
+        href: "https://www.a.u-tokyo.ac.jp/"
     }
 ]
