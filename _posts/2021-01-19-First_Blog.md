@@ -7,7 +7,7 @@ author:     "Haodong"
 catalog: false
 header-style: text
 tags:
-  - 被夹
+  - Daily
 ---
 
 testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttes
