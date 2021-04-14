@@ -64,7 +64,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: baa45923aaf0a5f19348                            #生成的clientID
   clientSecret: 14f3157d842a79bca1c7539b26c66c5f519f7323    #生成的clientSecret
-  repo: haodong1228.github.io/issues    #仓库名称
+  repo: haodong1228.github.io    #仓库名称
   owner: haodong1228    #github用户名
   admin: haodong
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
