@@ -66,7 +66,7 @@ gitalk:
   clientSecret: 14f3157d842a79bca1c7539b26c66c5f519f7323    #生成的clientSecret
   repo: haodong1228.github.io    #仓库名称
   owner: haodong1228    #github用户名
-  admin: haodong
+  admin: haodong1228
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 # Netease settings
