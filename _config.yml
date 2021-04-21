@@ -87,7 +87,7 @@ ga_domain: haodong1228
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "章浩棟，東京大学，農学生命科学研究科，農業国際専攻，国際情報農学研究室，修士2年． <br>Zhang Haodong, Graduate School of Agriculture and Life Sciences, Department of Global Agriculture Sciences, Laboratory of International Agro-Informatics, Master Student"
-sidebar-avatar: /img/intro.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/intro2.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
