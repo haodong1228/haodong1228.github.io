@@ -2,7 +2,7 @@
 layout:     post
 title:      Paper Reading Session(1)----"Estimation of Paddy Rice Plant Height using UAV Remote Sensing"
 subtitle:   "Ratthaphong Muangprakhonand Siwa Kaewplang / Faculty of Engineering, Mahasarakham University / 2021-03-31"
-date:       2021-05-08 21:00:00
+date:       2021-05-10 18:00:00
 author:     "Haodong"
 catalog: false
 header-style: text
