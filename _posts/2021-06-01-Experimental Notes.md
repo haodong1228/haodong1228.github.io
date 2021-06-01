@@ -24,10 +24,10 @@ Plot Size:12.5m × 8m
 </div>
 
 Base Fertilizer and Topdressing(底肥和追肥/雄穗抽出前)
-N1: 0 - 0kg N/10a
-N2: 7.5 - 0kg N/10a
-N3: 0 - 7.5kg N/10a
-N4: 7.5 - 7.5kg N/10a
+> + N1: 0 - 0kg N/10a
+> + N2: 7.5 - 0kg N/10a
+> + N3: 0 - 7.5kg N/10a
+> + N4: 7.5 - 7.5kg N/10a
 
 # After Sowing
 
