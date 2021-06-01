@@ -16,8 +16,8 @@ tags:
 ---
 
 # Layout
-Field Size: 24m × 50m
-Plot Size:12.5m × 8m
+> + Field Size: 24m × 50m
+> + Plot Size:12.5m × 8m
 
 <div style="align: center">
 <img src="https://raw.githubusercontent.com/haodong1228/haodong1228.github.io/master/img/post/210601layout 0.jpg"/>
