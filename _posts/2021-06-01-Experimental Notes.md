@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Maize(2021 Summer)Experimental Notes-0601
+title:      Maize(2021Summer)experimental notes-0601
 subtitle:   トウモロコシ実験ノート
 date:       2021-06-01 18:00:00
 author:     "Haodong"
