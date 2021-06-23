@@ -38,7 +38,6 @@ tags:
 </div>
 
 # Soil Sensors
-</div>
 <div style="align: center">
 <img src="https://raw.githubusercontent.com/haodong1228/haodong1228.github.io/master/img/post/210621_soil1.jpg"/>
 </div>
